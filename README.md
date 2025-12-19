@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋! My name is Nwachukwu Chizimuzo Emmanuel, I’m @DEnigma1996 <br>and I'm a Full-Stack JAVA DEVELOPER from Lagos, Nigeria</h1>
 
 - 👀 I’m interested in ... Web development, database administration and machine Learning
-- 🌱 I’m currently learning ... Software engineering with ALX
-- 🌱 Studing java programming and web development self paced.
+- 🌱 Java programming, AI, Ruby, GO, Database Dev and web development.
 - 💞️ I’m looking to collaborate on ... Web designs, java programming, Database design and administration
 -  📫 How to reach me ... chizimuzoemmanuel@gmail.com
 ###
